@@ -70,5 +70,11 @@
         "title": "SketchUp",
         "thumbnail": "https://firebasestorage.googleapis.com/v0/b/computer-basic-3d7e1.appspot.com/o/sketchup.png?alt=media&token=78cc917c-e866-46a6-8d39-39bcacb79930",
         "sort": 12
+    },
+    {
+        "id": 13,
+        "title": "Programming",
+        "thumbnail": "https://firebasestorage.googleapis.com/v0/b/computer-basic-3d7e1.appspot.com/o/sketchup.png?alt=media&token=78cc917c-e866-46a6-8d39-39bcacb79930",
+        "sort": 13
     }
 ]
